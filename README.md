@@ -28,9 +28,7 @@ Las entidades del modelo, como Dueño, Mascota y Visita, representan los objetos
 
 **Diagrama de clases:**
 
-![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.004.png)
+![](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.004.png)
 # <a name="_toc153786226"></a>3. Modelo de Datos:
 
 Entidades:
