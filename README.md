@@ -152,25 +152,19 @@ Lo primero que he hecho es crear un proyecto Maven, ya que así se crea un archi
 
 Esta es la estructura de mi proyecto. Dentro de src/main/java he creado dos paquetes diferentes, en ‘com’ se encuentran las clases que implementan consultas JPQL y la clase Main. En ‘Modelo’ tengo las entidades que se crean en la base de datos.
 
-![Interfaz de usuario gráfica, Texto
-
-Descripción generada automáticamente](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.005.png)
+![](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.005.png)
 
 -Archivo pom.xml
 
 El archivo pom.xml se encarga de gestionar las dependencias del proyecto y su estructura general. En él, se definen las dependencias necesarias para la persistencia de datos, pruebas unitarias y otras funcionalidades:
 
-![Texto
-
-Descripción generada automáticamente](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.006.png)
+![](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.006.png)
 
 -Archivo persistence.xml
 
 El archivo persistence.xml se encarga de la configuración de persistencia del sistema. Define la unidad de persistencia, proporciona información sobre las clases de entidad utilizadas y establece la configuración de la conexión a la base de datos:
 
-![Texto
-
-Descripción generada automáticamente](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.007.png)
+![](Aspose.Words.193a04fc-08d5-4242-929f-579cfb5c7123.007.png)
 
 Estos archivos son esenciales para gestionar las dependencias del proyecto, conectar con la base de datos y definir las entidades que forman parte del modelo de datos del sistema.
 
